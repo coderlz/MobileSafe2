@@ -8,7 +8,8 @@ import android.widget.CheckBox;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.example.administrator.mobilesafe.R;
+import com.example.linjohn.mobilesafe2.R;
+
 
 /**
  * Created by Administrator on 6/11/2016.

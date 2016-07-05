@@ -17,12 +17,14 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.administrator.utils.StreamUtil;
+import com.example.linjohn.mobilesafe2.R;
+import com.example.linjohn.mobilesafe2.utils.StreamUtil;
 import com.lidroid.xutils.HttpUtils;
 import com.lidroid.xutils.exception.HttpException;
 import com.lidroid.xutils.http.HttpHandler;
 import com.lidroid.xutils.http.ResponseInfo;
 import com.lidroid.xutils.http.callback.RequestCallBack;
+
 
 import org.json.JSONException;
 import org.json.JSONObject;

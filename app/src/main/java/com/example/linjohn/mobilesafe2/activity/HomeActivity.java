@@ -11,6 +11,8 @@ import android.widget.GridView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.linjohn.mobilesafe2.R;
+
 
 public class HomeActivity extends AppCompatActivity {
 

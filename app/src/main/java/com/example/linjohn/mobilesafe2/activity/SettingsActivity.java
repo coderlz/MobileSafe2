@@ -5,7 +5,8 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.example.administrator.ui.SettingItemView;
+import com.example.linjohn.mobilesafe2.R;
+import com.example.linjohn.mobilesafe2.ui.SettingItemView;
 
 public class SettingsActivity extends AppCompatActivity {
 
